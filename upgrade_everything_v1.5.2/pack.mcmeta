@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 6,
+    "pack_format": 7,
     "description": "Allows for the upgrade of all tools/items/armour in the smithing table"
   }
 }
