@@ -1,15 +1,20 @@
 {
-	"type": "minecraft:crafting",
-	"base": {
-		"item": "minecraft:bow"
-	},
-	"addition": {
-		"item": "minecraft:Iron_Ingot"
-	},
-	"addition": {
-		"item": "minecraft:tripwire_hook"
-	},
-	"result": {
-		"item": "minecraft:crossbow"
-	}
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bow"
+    },
+    {
+      "item": "minecraft:Iron_Ingot"
+    },
+    [
+      {
+        "item": "minecraft:tripwire_hook"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:crossbow",
+    "count": 1
+  }
 }
