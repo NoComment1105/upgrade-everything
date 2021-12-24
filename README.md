@@ -4,10 +4,10 @@
 ![Github Tag](https://img.shields.io/github/tag/NoComment1105/upgrade-everything.svg)
 [![Discord Chat](https://img.shields.io/badge/Chat%20on-discord-7289DA)](https://discord.gg/28N2Eeq2tT)
 
-Upgrade all tools/armour/weapon in the smithing table
+Upgrade all tools/armour/weapon in the smithing table. Upgrade bow to crossbow by crafting.
 
 ### What is the purpose of this datapack?
-You can get a lot of tool drops from Minecraft mobs. and usually they come on iron or gold tools/weapons/armour; and that can be a pain becuase it  renders then useless usually. But this pack here allows you to put any tool/weapon/armour piece in the smithing table and upgrade it to the next level
+You can get a lot of tool drops from Minecraft mobs. and usually they come on iron or gold tools/weapons/armour; and that can be a pain becuase it  renders then useless usually. But this pack here allows you to put any tool/weapon/armour piece in the smithing table and upgrade it to the next level. And upgrade a bow to a crossbow with crafting.
 
 
 ### Features
@@ -15,7 +15,8 @@ You can get a lot of tool drops from Minecraft mobs. and usually they come on ir
 2. Inserting a stone/chainmail item into the smithing table and adding a gold ingot returns a gold item
 3. Inseting a gold item into the smithing table and adding an iron ingot returns and iron item
 4. Inserting an Iron item into the smithing table and adding a diamond return a diamond items
-5. *NETHERITE RECIPE IS UNAFFECTED*
+5. Inserting a bow into a crafting area and adding a iron ingot, and a trip wire hook will return a crossbow
+6. *NETHERITE RECIPE IS UNAFFECTED*
 
 ### The Developers
 
@@ -23,6 +24,7 @@ You can get a lot of tool drops from Minecraft mobs. and usually they come on ir
 |:---------|:-------|:--------|
 | NoComment1105 | Pack Lead | [Contributions](https://github.com/NoComment1105/Easier-items-datapck/commits?author=NoComment1105) |
 | doglol99 | Pack Assistant Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=doglol99) |
+| mhmatthewhugley | A Contributor | [Contributions](https://github.com/mhmatthewhugley/upgrade-everything/commits?author=mhmatthewhugley) |
 
 ### Versioning
 This pack is 1.16.x at it's oldest. I am **NOT** going to back port any of these changes to any other versions
