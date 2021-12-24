@@ -19,7 +19,7 @@ You can get a lot of tool drops from Minecraft mobs. and usually they come on ir
 6. Inserting a stone item into the smithing table and adding a gold ingot returns a gold item
 7. Inseting a gold item into the smithing table and adding an iron ingot returns and iron item
 8. Inserting an Iron item into the smithing table and adding a diamond return a diamond items
-9. Inserting a bow into a crafting area and adding a iron ingot, and a trip wire hook will return a crossbow
+9. Inserting a bow into a smithing table and adding a trip wire will return a crossbow
 10. *NETHERITE RECIPES IS UNAFFECTED*
 
 ### The Developers
