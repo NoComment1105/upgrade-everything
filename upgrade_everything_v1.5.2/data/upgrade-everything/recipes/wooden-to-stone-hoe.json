@@ -4,7 +4,7 @@
 		"item": "minecraft:wooden_hoe"
 	},
 	"addition": {
-		"item": "minecraft:stone"
+                "item": "minecraft:cobblestone"
 	},
 	"result": {
 		"item": "minecraft:stone_hoe"
