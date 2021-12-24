@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:smithing",
+	"base": {
+		"item": "minecraft:bow"
+	},
+	"addition": {
+		"item": "minecraft:tripwire_hook"
+	},
+	"result": {
+		"item": "minecraft:crossbow"
+	}
+}
