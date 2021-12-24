@@ -15,7 +15,7 @@ You can get a lot of tool drops from Minecraft mobs. and usually they come on ir
 2. Inserting gold armor into the smithing table and adding a chain returns a chainmail piece of armor
 3. Inserting chainmail armor into the smithing table and adding a iron ingot returns a iron piece of armor
 4. Inserting iron armor into the smithing table and adding a diamond will return a diamond piece of armor
-5. Inserting a Wooden item into the smithing table and adding a block of stone returns a stone item
+5. Inserting a Wooden item into the smithing table and adding a block of cobblestone returns a stone item
 6. Inserting a stone item into the smithing table and adding a gold ingot returns a gold item
 7. Inseting a gold item into the smithing table and adding an iron ingot returns and iron item
 8. Inserting an Iron item into the smithing table and adding a diamond return a diamond items
