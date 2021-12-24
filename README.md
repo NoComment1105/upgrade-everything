@@ -11,12 +11,16 @@ You can get a lot of tool drops from Minecraft mobs. and usually they come on ir
 
 
 ### Features
-1. Inserting a Wooden item into the smithing table and adding a block of cobblestone returns a stone item
-2. Inserting a stone/chainmail item into the smithing table and adding a gold ingot returns a gold item
-3. Inseting a gold item into the smithing table and adding an iron ingot returns and iron item
-4. Inserting an Iron item into the smithing table and adding a diamond return a diamond items
-5. Inserting a bow into a crafting area and adding a iron ingot, and a trip wire hook will return a crossbow
-6. *NETHERITE RECIPE IS UNAFFECTED*
+1. Inserting leather armor into the smithing table and adding a gold ingot returns a gold piece of armor
+2. Inserting gold armor into the smithing table and adding a chain returns a chainmail piece of armor
+3. Inserting chainmail armor into the smithing table and adding a iron ingot returns a iron piece of armor
+4. Inserting iron armor into the smithing table and adding a diamond will return a diamond piece of armor
+5. Inserting a Wooden item into the smithing table and adding a block of stone returns a stone item
+6. Inserting a stone item into the smithing table and adding a gold ingot returns a gold item
+7. Inseting a gold item into the smithing table and adding an iron ingot returns and iron item
+8. Inserting an Iron item into the smithing table and adding a diamond return a diamond items
+9. Inserting a bow into a crafting area and adding a iron ingot, and a trip wire hook will return a crossbow
+10. *NETHERITE RECIPES IS UNAFFECTED*
 
 ### The Developers
 
